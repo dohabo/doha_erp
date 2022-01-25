@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clutch_MES", "clutch_MES\clutch_MES.csproj", "{49AA3794-579C-498C-84D4-98549BCD5CBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49AA3794-579C-498C-84D4-98549BCD5CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49AA3794-579C-498C-84D4-98549BCD5CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49AA3794-579C-498C-84D4-98549BCD5CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49AA3794-579C-498C-84D4-98549BCD5CBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9784709B-6F96-4610-B213-16A43E44AC97}
+	EndGlobalSection
+EndGlobal

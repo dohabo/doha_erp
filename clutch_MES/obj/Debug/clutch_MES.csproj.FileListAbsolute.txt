@@ -1,0 +1,248 @@
+C:\C#_WORK\clutch_MES\clutch_MES\obj\Debug\clutch_MES.csproj.AssemblyReference.cache
+C:\C#_WORK\clutch_MES\clutch_MES\obj\Debug\clutch_MES.Properties.Resources.resources
+C:\C#_WORK\clutch_MES\clutch_MES\obj\Debug\clutch_MES.csproj.GenerateResource.cache
+C:\C#_WORK\clutch_MES\clutch_MES\obj\Debug\clutch_MES.csproj.CoreCompileInputs.cache
+C:\C#_WORK\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.MainUI.resources
+C:\C#_WORK\clutch_MES\clutch_MES\bin\Debug\clutch_MES.exe.config
+C:\C#_WORK\clutch_MES\clutch_MES\bin\Debug\clutch_MES.exe
+C:\C#_WORK\clutch_MES\clutch_MES\bin\Debug\clutch_MES.pdb
+C:\C#_WORK\clutch_MES\clutch_MES\bin\Debug\CxFlatUI.dll
+C:\C#_WORK\clutch_MES\clutch_MES\bin\Debug\MaterialSkin.dll
+C:\C#_WORK\clutch_MES\clutch_MES\bin\Debug\SunnyUI.Common.dll
+C:\C#_WORK\clutch_MES\clutch_MES\bin\Debug\SunnyUI.dll
+C:\C#_WORK\clutch_MES\clutch_MES\obj\Debug\clutch_MES.csproj.CopyComplete
+C:\C#_WORK\clutch_MES\clutch_MES\obj\Debug\clutch_MES.exe
+C:\C#_WORK\clutch_MES\clutch_MES\obj\Debug\clutch_MES.pdb
+C:\C#_WORK\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.UIHome.resources
+C:\C#_WORK\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.AddWorkUI.resources
+C:\C#_WORK\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.AddWorkedUI.resources
+C:\C#_WORK\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.CheckWorkedUI.resources
+C:\C#_WORK\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.CheckWorkUI.resources
+C:\C#_WORK\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.temp.resources
+C:\C#_WORK\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.MachineUI.resources
+C:\C#_WORK\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.ItemUI.resources
+C:\C#_WORK\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.AdminMode.resources
+C:\Users\user\Desktop\Desktop\clutch_MES\clutch_MES\bin\Debug\clutch_MES.exe.config
+C:\Users\user\Desktop\Desktop\clutch_MES\clutch_MES\bin\Debug\clutch_MES.exe
+C:\Users\user\Desktop\Desktop\clutch_MES\clutch_MES\bin\Debug\clutch_MES.pdb
+C:\Users\user\Desktop\Desktop\clutch_MES\clutch_MES\bin\Debug\CxFlatUI.dll
+C:\Users\user\Desktop\Desktop\clutch_MES\clutch_MES\bin\Debug\MaterialSkin.dll
+C:\Users\user\Desktop\Desktop\clutch_MES\clutch_MES\bin\Debug\SunnyUI.Common.dll
+C:\Users\user\Desktop\Desktop\clutch_MES\clutch_MES\bin\Debug\SunnyUI.dll
+C:\Users\user\Desktop\Desktop\clutch_MES\clutch_MES\obj\Debug\clutch_MES.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Desktop\clutch_MES\clutch_MES\obj\Debug\clutch_MES.Properties.Resources.resources
+C:\Users\user\Desktop\Desktop\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.AddWorkedUI.resources
+C:\Users\user\Desktop\Desktop\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.AddWorkUI.resources
+C:\Users\user\Desktop\Desktop\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.AdminMode.resources
+C:\Users\user\Desktop\Desktop\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.CheckWorkedUI.resources
+C:\Users\user\Desktop\Desktop\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.CheckWorkUI.resources
+C:\Users\user\Desktop\Desktop\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.ItemUI.resources
+C:\Users\user\Desktop\Desktop\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.MachineUI.resources
+C:\Users\user\Desktop\Desktop\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.MainUI.resources
+C:\Users\user\Desktop\Desktop\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.UIHome.resources
+C:\Users\user\Desktop\Desktop\clutch_MES\clutch_MES\obj\Debug\clutch_MES.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Desktop\clutch_MES\clutch_MES\obj\Debug\clutch_MES.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Desktop\clutch_MES\clutch_MES\obj\Debug\clutch_MES.csproj.CopyComplete
+C:\Users\user\Desktop\Desktop\clutch_MES\clutch_MES\obj\Debug\clutch_MES.exe
+C:\Users\user\Desktop\Desktop\clutch_MES\clutch_MES\obj\Debug\clutch_MES.pdb
+C:\Users\User\Desktop\Desktop (1)\clutch_MES\clutch_MES\bin\Debug\clutch_MES.exe.config
+C:\Users\User\Desktop\Desktop (1)\clutch_MES\clutch_MES\bin\Debug\clutch_MES.exe
+C:\Users\User\Desktop\Desktop (1)\clutch_MES\clutch_MES\bin\Debug\clutch_MES.pdb
+C:\Users\User\Desktop\Desktop (1)\clutch_MES\clutch_MES\bin\Debug\CxFlatUI.dll
+C:\Users\User\Desktop\Desktop (1)\clutch_MES\clutch_MES\bin\Debug\MaterialSkin.dll
+C:\Users\User\Desktop\Desktop (1)\clutch_MES\clutch_MES\bin\Debug\SunnyUI.Common.dll
+C:\Users\User\Desktop\Desktop (1)\clutch_MES\clutch_MES\bin\Debug\SunnyUI.dll
+C:\Users\User\Desktop\Desktop (1)\clutch_MES\clutch_MES\obj\Debug\clutch_MES.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Desktop (1)\clutch_MES\clutch_MES\obj\Debug\clutch_MES.Properties.Resources.resources
+C:\Users\User\Desktop\Desktop (1)\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.AddWorkedUI.resources
+C:\Users\User\Desktop\Desktop (1)\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.AddWorkUI.resources
+C:\Users\User\Desktop\Desktop (1)\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.AdminMode.resources
+C:\Users\User\Desktop\Desktop (1)\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.CheckWorkedUI.resources
+C:\Users\User\Desktop\Desktop (1)\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.CheckWorkUI.resources
+C:\Users\User\Desktop\Desktop (1)\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.ItemUI.resources
+C:\Users\User\Desktop\Desktop (1)\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.MachineUI.resources
+C:\Users\User\Desktop\Desktop (1)\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.MainUI.resources
+C:\Users\User\Desktop\Desktop (1)\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.UIHome.resources
+C:\Users\User\Desktop\Desktop (1)\clutch_MES\clutch_MES\obj\Debug\clutch_MES.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Desktop (1)\clutch_MES\clutch_MES\obj\Debug\clutch_MES.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Desktop (1)\clutch_MES\clutch_MES\obj\Debug\clutch_MES.csproj.CopyComplete
+C:\Users\User\Desktop\Desktop (1)\clutch_MES\clutch_MES\obj\Debug\clutch_MES.exe
+C:\Users\User\Desktop\Desktop (1)\clutch_MES\clutch_MES\obj\Debug\clutch_MES.pdb
+C:\Users\User\Desktop\Desktop (1)\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.AdminUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\bin\Debug\clutch_MES.exe.config
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\bin\Debug\clutch_MES.exe
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\bin\Debug\clutch_MES.pdb
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\bin\Debug\CxFlatUI.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\bin\Debug\MaterialSkin.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\bin\Debug\SunnyUI.Common.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\bin\Debug\SunnyUI.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\obj\Debug\clutch_MES.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\obj\Debug\clutch_MES.Properties.Resources.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.AddWorkedUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.AddWorkUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.AdminMode.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.AdminUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.CheckWorkedUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.MainUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.UIHome.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\obj\Debug\clutch_MES.csproj.GenerateResource.cache
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\obj\Debug\clutch_MES.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\obj\Debug\clutch_MES.csproj.CopyComplete
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\obj\Debug\clutch_MES.exe
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\obj\Debug\clutch_MES.pdb
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.Item.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.MachineLine.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.Details.WorkerUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.Details.DefectUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.Details.CompanyUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.NoticeUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.Search.searchCompany.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.Search.searchItem.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.Search.searchMachine.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.Search.searchWorker.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.Admin_Mode.WareHouseUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.MainFucntion.InStock.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.MainFucntion.StockManage.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.Admin_Mode.OpeningStokcUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.Admin_Mode.BomManageUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.MainFucntion.PurchaseUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.Admin_Mode.SupplierUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.Search.searchSupplier.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\clutch_MES\clutch_MES\obj\Debug\clutch_MES.UI.MainFucntion.OutStock.resources
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\bin\Debug\clutch_MES.exe.config
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\bin\Debug\clutch_MES.exe
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\bin\Debug\clutch_MES.pdb
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\bin\Debug\CxFlatUI.dll
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\bin\Debug\MaterialSkin.dll
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\bin\Debug\SunnyUI.Common.dll
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\bin\Debug\SunnyUI.dll
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\bin\Debug\System.Buffers.dll
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\bin\Debug\System.Memory.dll
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\bin\Debug\System.Text.Json.dll
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\bin\Debug\System.ValueTuple.dll
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\bin\Debug\System.Buffers.xml
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\bin\Debug\System.Memory.xml
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\bin\Debug\System.Text.Json.xml
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\bin\Debug\System.ValueTuple.xml
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.csproj.AssemblyReference.cache
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.Properties.Resources.resources
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.Admin_Mode.BomManageUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.Details.CompanyUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.Details.DefectUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.Admin_Mode.OpeningStokcUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.Admin_Mode.SupplierUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.Admin_Mode.WareHouseUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.Details.WorkerUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.AddWorkedUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.AddWorkUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.AdminMode.resources
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.AdminUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.CheckWorkedUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.Item.resources
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.MachineLine.resources
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.MainFucntion.InStock.resources
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.MainFucntion.OutStock.resources
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.MainFucntion.PurchaseUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.MainFucntion.StockManage.resources
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.MainUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.NoticeUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.UIHome.resources
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.Search.searchCompany.resources
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.Search.searchItem.resources
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.Search.searchMachine.resources
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.Search.searchSupplier.resources
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.Search.searchWorker.resources
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.csproj.GenerateResource.cache
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.csproj.CoreCompileInputs.cache
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.csproj.CopyComplete
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.exe
+C:\Users\a4908\OneDrive\바탕 화면\스마트팩토리과정\17.포트폴리오용 프로젝트\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.pdb
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.Properties.Resources.resources
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.Admin_Mode.BomManageUI.resources
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.Details.CompanyUI.resources
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.Details.DefectUI.resources
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.Admin_Mode.OpeningStokcUI.resources
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.Admin_Mode.SupplierUI.resources
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.Admin_Mode.WareHouseUI.resources
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.Details.WorkerUI.resources
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.AddWorkedUI.resources
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.AddWorkUI.resources
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.AdminMode.resources
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.AdminUI.resources
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.CheckWorkedUI.resources
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.Item.resources
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.MachineLine.resources
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.MainFucntion.InStock.resources
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.MainFucntion.OutStock.resources
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.MainFucntion.PurchaseUI.resources
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.MainFucntion.StockManage.resources
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.MainUI.resources
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.NoticeUI.resources
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.UIHome.resources
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.Search.searchCompany.resources
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.Search.searchItem.resources
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.Search.searchMachine.resources
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.Search.searchSupplier.resources
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.UI.Search.searchWorker.resources
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.csproj.GenerateResource.cache
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.exe
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.pdb
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\bin\Debug\clutch_MES.exe.config
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\bin\Debug\clutch_MES.exe
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\bin\Debug\clutch_MES.pdb
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\bin\Debug\CxFlatUI.dll
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\bin\Debug\MaterialSkin.dll
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\bin\Debug\SunnyUI.Common.dll
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\bin\Debug\SunnyUI.dll
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\포트폴리오\DOHA ERP\clutch_MES\obj\Debug\clutch_MES.csproj.CopyComplete
